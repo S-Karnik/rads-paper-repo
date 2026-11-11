@@ -1,10 +1,21 @@
-# Reachability-Aware Diffusion Steering
+<div align="center">
 
-This repository contains the code for the paper "Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion."
+# Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion
 
-Accepted at NeurIPS 2026.
+**Sathwik Karnik**<sup>1,&#42;</sup> &nbsp;&nbsp; **Juyeop Kim**<sup>2,&#42;</sup> &nbsp;&nbsp; **Sanmi Koyejo**<sup>1,&dagger;</sup> &nbsp;&nbsp; **Jong-Seok Lee**<sup>2,&dagger;</sup> &nbsp;&nbsp; **Somil Bansal**<sup>1,&dagger;</sup>
+
+<sup>1</sup>Stanford University, United States<br>
+<sup>2</sup>School of Integrated Technology & BK21 Graduate Program in Intelligent Semiconductor Technology, Yonsei University, Korea
+
+`{sathwik,sanmi,somil}@stanford.edu` &nbsp;&nbsp; `{juyeopkim,jong-seok.lee}@yonsei.ac.kr`
+
+**NeurIPS 2026**
 
 🌐 [Project Page](https://s-karnik.github.io/rads-memorization-project-page/) | 📄 [Paper](https://arxiv.org/abs/2603.00140)
+
+</div>
+
+This repository contains the official code for Reachability-Aware Diffusion Steering.
 
 ## Setup
 
