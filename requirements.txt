@@ -1,0 +1,8 @@
+datasets
+lightning
+pillow
+pyarrow
+tensorboard
+torch
+tqdm
+wah
