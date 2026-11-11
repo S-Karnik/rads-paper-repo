@@ -20,7 +20,7 @@ for run in "${RUNS[@]}"; do
             
                 echo "Generating... (pipe=$pipe, model_name=$model_name, scheduler=$scheduler, g=$g, seed=$seed/$N, train_seed=$train_seed, mitigate=$mitigate) on GPU $gpu_id"
             
-            python generate.py \
+            python -m scripts.generate \
                 --pipe "$pipe" \
                 --scheduler "$scheduler" \
                 --g "$g" \
