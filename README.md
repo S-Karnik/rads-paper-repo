@@ -139,7 +139,7 @@ Lastly, you can change the scheduler by changing the `--scheduler` flag. Possibl
 
 ### Plotting
 
-To regenerate the plot in Figures 5 and 6, run:
+To regenerate the plot in Figures 4 and 7, run:
 ```bash
 python -m scripts.pareto_frontier
 ```
