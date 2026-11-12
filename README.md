@@ -11,9 +11,7 @@
 
 **NeurIPS 2026**
 
-🌐 [Project Page](https://s-karnik.github.io/rads-memorization-project-page/)<br>
-📄 [Paper](https://arxiv.org/abs/2603.00140)<br>
-🤗 [Model Checkpoints](https://huggingface.co/S-Karnik/rads-model-checkpoints)
+🌐 [Project Page](https://s-karnik.github.io/rads-memorization-project-page/) | 📄 [Paper](https://arxiv.org/abs/2603.00140) | 🤗 [Model Checkpoints](https://huggingface.co/S-Karnik/rads-model-checkpoints)
 
 </div>
 
